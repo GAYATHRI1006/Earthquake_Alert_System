@@ -8,7 +8,10 @@ GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 
 ## Screenshot
 
-![Earthquake Alert System](adviceapp.png)  
+![Earthquake Alert System](earthquake1.png)  
+![Earthquake Alert System](earthquake2.png)  
+![Earthquake Alert System](earthquake3.png)  
+![Earthquake Alert System](earthquake4.png)  
 
 ## Components Used
 
@@ -41,7 +44,8 @@ Used for mobile notifications and remote controls.
 ```cpp
 #define BLYNK_TEMPLATE_ID "TMPL3fPEk8irW"
 #define BLYNK_DEVICE_NAME "EarthquakeAlert"
-#define BLYNK_AUTH "JRPi-rOLqwMYODjZ6wWfIzEKZS3SrnnA" ```
+#define BLYNK_AUTH "JRPi-rOLqwMYODjZ6wWfIzEKZS3SrnnA"
+```
 🔗 API Reference: [Blynk Cloud Platform](https://blynk.cloud/)
 
 ### Arduino Libraries
