@@ -64,8 +64,8 @@ Update your Wi-Fi details in the code:
 
 ### Sample Output
 
-LCD: "Earthquake Alert"
-Blynk: "Earthquake Alert! Take safety precautions."
-Buzzer: ON
-LED: OFF
-Solenoid Valve: CLOSED
+- LCD: "Earthquake Alert"
+- Blynk: "Earthquake Alert! Take safety precautions."
+- Buzzer: ON
+- LED: OFF
+- Solenoid Valve: CLOSED
