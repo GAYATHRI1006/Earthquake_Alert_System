@@ -6,6 +6,7 @@ An IoT-based real-time **Earthquake Monitoring System** using **ESP8266**, **SW-
 **Gayathri G**  
 GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 
+
 ## Screenshot
 
 ![Earthquake Alert System](earthquake1.jpeg)  
