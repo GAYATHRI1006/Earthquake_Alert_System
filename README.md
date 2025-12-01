@@ -3,7 +3,6 @@
 An IoT-based real-time **Earthquake Monitoring System** using **ESP8266**, **SW-420 Vibration Sensor**, **Blynk**, and a **16x2 I2C LCD**. This project detects seismic activity and sends alerts via the Blynk app, along with visual and audible warnings through a buzzer, LED, and a solenoid gas valve controller.
 
 ## Developed By
-
 **Gayathri G**  
 GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 
