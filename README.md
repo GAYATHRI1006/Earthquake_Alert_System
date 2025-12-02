@@ -10,7 +10,6 @@ GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 
 ![Earthquake Alert System](earthquake1.jpeg)  
 ![Earthquake Alert System](earthquake2.jpeg)  
-
 ![Earthquake Alert System](earthquake3.jpeg)  
 ![Earthquake Alert System](earthquake4.jpeg)  
 
